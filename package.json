@@ -1,5 +1,16 @@
 {
   "dependencies": {
     "typed.js": "^2.1.0"
-  }
+  },
+  "name": "protfolio---copy1",
+  "description": "<!-- in last i wil make a signal rader effect in html and csss -->",
+  "version": "1.0.0",
+  "main": "custom.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"protfolio.html"
+  },
+  "author": "",
+  "license": "ISC"
 }
